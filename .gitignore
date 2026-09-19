@@ -1,0 +1,15 @@
+# Personenbezogene Daten – nicht versionieren
+01_Organisation/Teilnehmer.xlsx
+*.xlsx
+
+# Backups und Duplikate
+_Archiv/
+*.bak
+
+# System- und Office-Dateien
+~$*
+.~lock.*
+Thumbs.db
+desktop.ini
+.DS_Store
+Claude outputs/
