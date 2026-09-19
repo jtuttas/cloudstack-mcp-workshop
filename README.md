@@ -35,6 +35,12 @@ Ein Fachinformatiker Systemintegration der fiktiven *Change IT GmbH* soll eine C
 
 Der MCP-Server basiert auf [phantosmax/cloudstack-mcp-server](https://github.com/phantosmax/cloudstack-mcp-server) (MIT-Lizenz).
 
+## Link & QR-Code
+
+https://github.com/jtuttas/cloudstack-mcp-workshop
+
+<img src="06_Bilder/QR-Code_Repository.png" alt="QR-Code zum Repository" width="160">
+
 ## Kontakt
 
 Dr. Jörg Tuttas · MMBbS Hannover · tuttas@mmbbs.de

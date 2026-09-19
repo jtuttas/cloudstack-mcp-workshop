@@ -55,11 +55,11 @@ Die Excel-Datei kurz öffnen und die Werte stichprobenartig mit dem Web-UI vergl
 
 ## Phase 4 – Einrichtung (00:20–00:30)
 
-**Anleitung (Folie + README im GitHub-Repository, Link als QR-Code):**
+**Anleitung (Folie + README im GitHub-Repository https://github.com/jtuttas/cloudstack-mcp-workshop, Link als QR-Code):**
 
 1. **Anmelden** im CloudStack-Web-UI: Benutzername `teilnehmera`, `teilnehmerb`, `teilnehmerc` … (klein, ohne Leerzeichen), Kennwort `geheim`, **Domain `/mmbbs/FIAE`**. Die Domain muss im Anmeldeformular ausgewählt bzw. eingetragen werden, sonst schlägt die Anmeldung fehl.
 2. **API-Keys erzeugen:** Im Benutzerprofil „Generate Keys“ bzw. „Schlüssel generieren“ ausführen, dann API-Key und Secret kopieren
-3. **MCP-Server herunterladen:** Die `.mcpb`-Datei aus dem GitHub-Repository laden
+3. **MCP-Server herunterladen:** Die `.mcpb`-Datei aus dem GitHub-Repository (Ordner `05_MCP-Server/`) laden
 4. **Installieren:** Die `.mcpb`-Datei per Doppelklick öffnen oder in Claude Desktop unter *Einstellungen → Erweiterungen* einfügen
 5. **Konfigurieren:** API-Key und API-Secret in die Felder der Erweiterung eintragen und die Erweiterung aktivieren
 6. **Verbindungstest:** *„Welche Zonen stehen mir zur Verfügung, und welche VMs habe ich bereits?“*
@@ -118,7 +118,7 @@ Erwartbar sind etwa diese Schritte:
 
 - **Aufräumen:** Entweder lassen die Teilnehmenden ihre VM und die öffentliche IP von Claude freigeben, was die Freigabe destruktiver Aktionen bewusst erlebbar macht, oder der Referent räumt zentral auf. In jedem Fall werden die VMs direkt am Workshop-Ende gelöscht.
 - Hinweis: Accounts und API-Keys werden nach dem Workshop deaktiviert.
-- Materialien per QR-Code: GitHub-Repository mit `.mcpb`, README, Arbeitsauftrag, Szenario-Vorlage
+- Materialien per QR-Code (`06_Bilder/QR-Code_Repository.png`): GitHub-Repository https://github.com/jtuttas/cloudstack-mcp-workshop mit `.mcpb`, README, Arbeitsauftrag, Szenario-Vorlage
 - Kurzes Feedback
 
 ## Vorbereitung (nicht Teil der 60 Minuten)
