@@ -6,7 +6,7 @@
 
 | | |
 |---|---|
-| **Termin** | Dienstag, 17.11.2026 |
+| **Termin** | Montag, 16.11.2026, 12:00–13:00 Uhr, Raum E17 |
 | **Dauer** | 60 Minuten |
 | **Zielgruppe** | Lehrkräfte |
 | **Referent** | Dr. Jörg Tuttas, Multi-Media Berufsbildende Schulen (MMBbS) Hannover |

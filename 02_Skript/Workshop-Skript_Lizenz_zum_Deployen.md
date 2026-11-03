@@ -2,7 +2,7 @@
 
 **Change IT GmbH: CloudStack per MCP mit Claude Desktop inventarisieren und VMs deployen**
 
-Cisco Akademientage 2026 · Dienstag, 17.11.2026 · Dauer: 60 Minuten · Zielgruppe: Lehrkräfte
+Cisco Akademientage 2026 · Montag, 16.11.2026, 12:00–13:00 Uhr, Raum E17 · Dauer: 60 Minuten · Zielgruppe: Lehrkräfte
 
 Referent: Dr. Jörg Tuttas, Multi-Media Berufsbildende Schulen Hannover
 
